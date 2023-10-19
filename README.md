@@ -47,8 +47,8 @@ Open a pull request on this repository. Be sure to provide a clear and concise d
 ## Contact
 If you have any questions, suggestions, or would like to get in touch, you can reach out to me also I am going to open a discuss forum for discussion:
 
-Email: sharmaaryan9837@gmail.com
-LinkedIn: linkedin.com/in/aryansharma9917
+Email: avi1997verma@gmail.com
+LinkedIn: linkedin.com/in/anirudh1920
 
 You can also find the repository and its installation file within the repository itself.
 
